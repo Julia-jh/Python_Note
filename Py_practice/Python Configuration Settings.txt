@@ -1,0 +1,13 @@
+# Python Configuration Settings
+
+## 1. thema
+
+### 테마 변경하는 내용
+https://bio-info.tistory.com/15
+!jt -t chesterish -f bitstream -fs 13 -tf roboto -tfs 13 -nf opensans -nfs 12 -ofs 12 -dfs 12 -cellw 80% -lineh 170 -T -N
+
+### 툴바 가려짐
+https://coding-yoon.tistory.com/155
+
+## 2. NBextensions tab
+https://john-analyst.medium.com/%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%98-%EA%BF%80%ED%8C%81%EB%93%A4-4a40d406f07e
